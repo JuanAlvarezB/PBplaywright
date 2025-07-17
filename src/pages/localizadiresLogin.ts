@@ -1,0 +1,15 @@
+export const TXT_USUARIO = "#user-name";
+export const TXT_CONTRASEÑA = "#password";
+export const BTN_LOGIN = "#login-button";
+export const TXT_LABEL_PRODUCTS = "//span[text()='Products' and @data-test='title']";
+export const BTN_ADD_BACKPACK = "//button[@data-test='add-to-cart-sauce-labs-backpack' and @id='add-to-cart-sauce-labs-backpack']";
+export const BTN_GO_TO_CART = "//a[@class='shopping_cart_link' and @data-test='shopping-cart-link']";
+export const BTN_CHECKOUT = "#checkout";
+export const INPUT_FIRST_NAME = "#first-name";
+export const INPUT_LAST_NAME = "#last-name";
+export const INPUT_POSTAL_CODE = "#postal-code";
+export const BTN_CONTINUE = "#continue";
+export const BTN_FINISH = "#finish";
+export const TXT_LABEL_ONE = "//h2[@class='complete-header' and @data-test='complete-header']";
+export const TXT_LABEL_TWO = "//div[@class='complete-text' and @data-test='complete-text']";
+export const TXT_LABEL_THREE = "//span[@class='title' and @data-test='title']";
